@@ -1,1 +1,1 @@
-print("zmiana na komende print")
+print("zmiana na metody print")
